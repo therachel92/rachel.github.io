@@ -1,12 +1,10 @@
-body {
-  background-color: pink;
-}
-
-h1 {
-  color: green;
-}
-
 #header {
   color: white;
-  background-color: red;
+  background-color: #ad96a5;
+  text-align: center;
+}
+
+body {
+    background-image: url("http://i.imgur.com/b6TjzG0.jpg");
+    background-color: #cccccc;
 }
